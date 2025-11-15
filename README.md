@@ -70,6 +70,7 @@ Simple folder structure and easy routes
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Creating an Admin User
+
 The backend includes a helper script to create an admin account. Add the credentials manually in the create-admin.js file and run npm run seed:admin in the terminal.
 
 
