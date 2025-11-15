@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "npm run ssr:build",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/api/server.js"
+    }
+  ]
+}
