@@ -1,5 +1,7 @@
 Task Management App
 
+Live demo link - https://task-management-app-client-rose.vercel.app/
+
 This project is a full-stack Task Management application built with a React (Vite) frontend and a Node.js + Express backend, connected through MongoDB.
 The app supports user authentication, task CRUD operations.
 
